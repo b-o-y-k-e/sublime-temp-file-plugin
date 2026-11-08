@@ -1,0 +1,244 @@
+[
+	{
+		"caption": "Create Temp File: Bash",
+		"command": "create_temp_file",
+		"args": {
+			"language": "bash"
+		}
+	},
+	{
+		"caption": "Create Temp File: Batch",
+		"command": "create_temp_file",
+		"args": {
+			"language": "batch"
+		}
+	},
+	{
+		"caption": "Create Temp File: C",
+		"command": "create_temp_file",
+		"args": {
+			"language": "c"
+		}
+	},
+	{
+		"caption": "Create Temp File: C#",
+		"command": "create_temp_file",
+		"args": {
+			"language": "csharp"
+		}
+	},
+	{
+		"caption": "Create Temp File: C++",
+		"command": "create_temp_file",
+		"args": {
+			"language": "cpp"
+		}
+	},
+	{
+		"caption": "Create Temp File: CSS",
+		"command": "create_temp_file",
+		"args": {
+			"language": "css"
+		}
+	},
+	{
+		"caption": "Create Temp File: Dart",
+		"command": "create_temp_file",
+		"args": {
+			"language": "dart"
+		}
+	},
+	{
+		"caption": "Create Temp File: Elixir",
+		"command": "create_temp_file",
+		"args": {
+			"language": "elixir"
+		}
+	},
+	{
+		"caption": "Create Temp File: Go",
+		"command": "create_temp_file",
+		"args": {
+			"language": "go"
+		}
+	},
+	{
+		"caption": "Create Temp File: Groovy",
+		"command": "create_temp_file",
+		"args": {
+			"language": "groovy"
+		}
+	},
+	{
+		"caption": "Create Temp File: Haskell",
+		"command": "create_temp_file",
+		"args": {
+			"language": "haskell"
+		}
+	},
+	{
+		"caption": "Create Temp File: HTML",
+		"command": "create_temp_file",
+		"args": {
+			"language": "html"
+		}
+	},
+	{
+		"caption": "Create Temp File: Java",
+		"command": "create_temp_file",
+		"args": {
+			"language": "java"
+		}
+	},
+	{
+		"caption": "Create Temp File: JavaScript",
+		"command": "create_temp_file",
+		"args": {
+			"language": "javascript"
+		}
+	},
+	{
+		"caption": "Create Temp File: JSON",
+		"command": "create_temp_file",
+		"args": {
+			"language": "json"
+		}
+	},
+	{
+		"caption": "Create Temp File: Julia",
+		"command": "create_temp_file",
+		"args": {
+			"language": "julia"
+		}
+	},
+	{
+		"caption": "Create Temp File: Kotlin",
+		"command": "create_temp_file",
+		"args": {
+			"language": "kotlin"
+		}
+	},
+	{
+		"caption": "Create Temp File: LaTeX",
+		"command": "create_temp_file",
+		"args": {
+			"language": "latex"
+		}
+	},
+	{
+		"caption": "Create Temp File: Lua",
+		"command": "create_temp_file",
+		"args": {
+			"language": "lua"
+		}
+	},
+	{
+		"caption": "Create Temp File: Markdown",
+		"command": "create_temp_file",
+		"args": {
+			"language": "markdown"
+		}
+	},
+	{
+		"caption": "Create Temp File: Perl",
+		"command": "create_temp_file",
+		"args": {
+			"language": "perl"
+		}
+	},
+	{
+		"caption": "Create Temp File: PHP",
+		"command": "create_temp_file",
+		"args": {
+			"language": "php"
+		}
+	},
+	{
+		"caption": "Create Temp File: Plain Text",
+		"command": "create_temp_file",
+		"args": {
+			"language": "text"
+		}
+	},
+	{
+		"caption": "Create Temp File: PowerShell",
+		"command": "create_temp_file",
+		"args": {
+			"language": "powershell"
+		}
+	},
+	{
+		"caption": "Create Temp File: Python",
+		"command": "create_temp_file",
+		"args": {
+			"language": "python"
+		}
+	},
+	{
+		"caption": "Create Temp File: R",
+		"command": "create_temp_file",
+		"args": {
+			"language": "r"
+		}
+	},
+	{
+		"caption": "Create Temp File: Ruby",
+		"command": "create_temp_file",
+		"args": {
+			"language": "ruby"
+		}
+	},
+	{
+		"caption": "Create Temp File: Rust",
+		"command": "create_temp_file",
+		"args": {
+			"language": "rust"
+		}
+	},
+	{
+		"caption": "Create Temp File: Scala",
+		"command": "create_temp_file",
+		"args": {
+			"language": "scala"
+		}
+	},
+	{
+		"caption": "Create Temp File: SQL",
+		"command": "create_temp_file",
+		"args": {
+			"language": "sql"
+		}
+	},
+	{
+		"caption": "Create Temp File: Swift",
+		"command": "create_temp_file",
+		"args": {
+			"language": "swift"
+		}
+	},
+	{
+		"caption": "Create Temp File: TypeScript",
+		"command": "create_temp_file",
+		"args": {
+			"language": "typescript"
+		}
+	},
+	{
+		"caption": "Create Temp File: XML",
+		"command": "create_temp_file",
+		"args": {
+			"language": "xml"
+		}
+	},
+	{
+		"caption": "Create Temp File: YAML",
+		"command": "create_temp_file",
+		"args": {
+			"language": "yaml"
+		}
+	},
+	{
+		"caption": "Create Temp File: Choose Language…",
+		"command": "create_temp_file"
+	}
+]
