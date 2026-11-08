@@ -2,6 +2,8 @@
 
 this plugin helps you make quick and easy temp files in the temp folder (windows only).
 
+i used to use a vscode plugin like this that was very useful, but there is no such plugin on sublime text so i "made" this
+
 to install, download ```create_temp_file.py``` and ```Create Temp File.sublime-commands``` and save them to appdata/roaming/Sublime Text/Packages/User/.
 there is no restart needed, they will work out of the box
 
